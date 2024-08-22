@@ -16,12 +16,12 @@ A brief summary of the topic
 
 Key Points
 Point 1: unrevealed
-Point 2:
-Point 3:
+Point 2: anotha one
+Point 3: add a word
 
 ---
 
-Details
+Detailsgit 
 Subtopic 1
 Detail 1:
 Detail 2:
